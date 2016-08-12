@@ -8,3 +8,4 @@ git add : add something in your git repository before committing it.
 git commit : when you saved your file. 
 git push origin : when you push your current branch in the repository from your computer to Github.
 git checkout -b : create a new branch.
+end
